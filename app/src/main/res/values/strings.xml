@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="_0">0</string>
+    <string name="sqrt">sqrt</string>
+    <string name="dec">.</string>
+    <string name="eq">=</string>
+    <string name="ad">+</string>
+    <string name="_4">4</string>
+    <string name="_2">2</string>
+    <string name="_5">5</string>
+    <string name="_3">3</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="sb">-</string>
+    <string name="ml">*</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="dv">/</string>
+    <string name="md">%</string>
+    <string name="pw">^</string>
+    <string name="c">C</string>
+    <string name="srt">srt</string>
+    <string name="_srt">SRT</string>
+    <string name="snterr">Syntax error</string>
+    <string name="_0_0">0.0</string>
+</resources>
