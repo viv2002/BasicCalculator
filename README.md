@@ -12,4 +12,5 @@ With this app you can :
 6. Find squareroot (For finding square root you need to first press SRT button and then operator and then equal button to get result.)
 7. Use all the above functions on decimal numbers too
 # Some Glimpses
-![Calculator preview 1](https://www.github.com/viv2002/images.png)
+<img src="http://github.com/viv2002/images/blob/main/Screenshot_2021_0220_192039[1].jpg" width="200" height="200" />
+<img src="http://github.com/viv2002/images/blob/main/Screenshot_2021_0220_192229[1].jpg" width="200" height="200" />
